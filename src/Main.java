@@ -54,11 +54,11 @@ public class Main {
         System.out.println("Задача4");
         int [] arr = new int []{1, 2, 3};
         System.out.println(Arrays.toString(arr));
-        }{
-
-
-
         }
+
+
+
+
 
 
 
