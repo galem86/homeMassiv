@@ -8,7 +8,7 @@ public class Main {
         massiv [0] = 1;
         massiv [1] = 2;
         massiv [2] = 3;
-        for ( int i = 0; i < 3; i++){
+        for ( int i = 0; i < 3; i++ ){
             System.out.println( massiv[i]);
         }
         float[] number = new float[]{1.57f, 7.654f,9.986f} ;
